@@ -24,7 +24,7 @@
 ### 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankpratapsingh2017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mayank-pratap-singh-7b4392243))  
 
 ---
 
@@ -71,4 +71,5 @@
 
 ---
 
+                                                
 <!-- ⭐ Clean • Professional • Placement Ready -->
